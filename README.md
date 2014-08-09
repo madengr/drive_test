@@ -40,5 +40,5 @@ I have included the “fixed” version of pygmaps, which correctly adds the poi
 https://pygmaps.googlecode.com/issues/attachment?aid=50001000&name=pygmaps.py&token=ABZ6GAcrAjoSOQqAo7Pi9Zr5ktERso797g%3A1407467117294
 
 
-![Alt text](https://github.com/madengr/drive_test/blob/master/apps/log_98900000_1407546520.html)
+![Drive test screenshot](https://github.com/madengr/drive_test/blob/master/drive_test.png)
 
