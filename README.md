@@ -39,7 +39,7 @@ I have included the “fixed” version of pygmaps, which correctly adds the poi
 
 https://pygmaps.googlecode.com/issues/attachment?aid=50001000&name=pygmaps.py&token=ABZ6GAcrAjoSOQqAo7Pi9Zr5ktERso797g%3A1407467117294
 
-This is a sample screen shot.  See the apps directory for the Google Map html file.
+This is a sample screen shot for a quick drive of KQRC, 98.9 MHz with the transmitter on the east side of Kansas City.  See the apps directory for the Google Map html file.
 
 ![Drive test screenshot](https://github.com/madengr/drive_test/blob/master/drive_test.png)
 
